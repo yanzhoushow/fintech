@@ -1,11 +1,15 @@
 # Engineering in Fintech
 
 ## Stripe
-- Checkout
+- Direct payments
+  - online payments
+  - subscription & billing
+- Checkout 
 
 ## Plaid
 
 ## Synpase
+- ACH
 - RPPS
 
 ## Generic Utility
