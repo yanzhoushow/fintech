@@ -2,7 +2,7 @@
 
 ## Stripe
 - Direct payments
-  - online payments
+  - onetime payment
   - subscription & billing
 - Checkout 
 
