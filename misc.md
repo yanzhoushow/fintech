@@ -1,0 +1,2 @@
+- `Low/Moderate Income (LMI)` & `Income Volatile` segment
+- drive `engagement` and `brand loyalty`
